@@ -1,0 +1,10 @@
+Ava Davis   (555) 123-4567   Seattle, WA   32
+Ethan Kim   (555) 987-6543   New York, NY   45
+Olivia Lee   (555) 555-1212   Los Angeles, CA   26
+William Chen   (555) 777-8888   San Francisco, CA   39
+Mia Patel   (555) 555-4321   Houston, TX   21
+Alexander Nguyen   (555) 111-2222   Chicago, IL   29
+Emma Hernandez   (555) 555-1212   Miami, FL   38
+Liam Rodriguez   (555) 777-9999   Phoenix, AZ   19
+Sophia Kim   (555) 123-7890   Dallas, TX   57
+Noah Thompson   (555) 888-7777   Denver, CO   42
