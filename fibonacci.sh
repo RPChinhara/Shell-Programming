@@ -3,9 +3,9 @@
 # Define a function to compute the nth Fibonacci number
 fibonacci() {
     if [[ $1 -eq 0 ]]; then
-        echo 0
+        echo "$1"
     elif [[ $1 -eq 1 ]]; then
-        echo 1
+        echo "$1"
     else
         prev1=0
         prev2=1
